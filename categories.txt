@@ -1,0 +1,10 @@
+ayam_goreng
+bakso
+bubur
+gado_gado
+mie_ayam
+nasi_goreng
+nasi_padang
+rawon
+sate_ayam
+soto_ayam
