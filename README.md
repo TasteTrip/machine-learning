@@ -24,14 +24,14 @@
 
 The model is trained on a diverse dataset containing 1489 images with (0.8, 0.15, 0.5) dataset split, and our aims to deliver high accuracy in real-time classification.
 
-<div style="text-align: center;">
+<div align="center">
     <img src="./img/accuracy.png" alt="conf matrix" width="400">
     <img src="./img/loss.png" alt="conf matrix" width="400">
 </div>
 
 <br/>
 
-<div style="text-align: center;">
+<div align="center">
     <img src="./img/metrics.png" alt="conf matrix" width="500">
     <p>
         <i><strong>0 to 9</strong> is the label mentioned before. 0 is <strong>Ayam Goreng</strong>, 1 is <strong>Bakso</strong>, and so on.</i>
